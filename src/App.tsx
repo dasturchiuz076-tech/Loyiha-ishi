@@ -55,7 +55,9 @@ const slides: Slide[] = [
 const team: TeamMember[] = [
   { name: "Jamoliddin Kamoliddinov", role: "Jamoa a'zosi" },
   { name: "Azizov Abbos", role: "Jamoa a'zosi" },
-  { name: "Olimov Muhammadsolih", role: "Jamoa a'zosi" }
+  { name: "Olimov Muhammadsolih", role: "Jamoa a'zosi" },
+  { name: "Yo'ldosheva Muxlisa", role: "Jamoa a'zosi"},
+  { name: "Furqatova Mubina", role: "Jamoa a'zosi"}
 ];
 
 const successStories = [
